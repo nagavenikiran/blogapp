@@ -1,2 +1,3 @@
-# blogapp
-blog application for demo
+# Blog Application
+
+Django Blog application 
