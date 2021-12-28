@@ -10,12 +10,12 @@ Includes information about Omaha visiting places
 
   ## Log to django application as admin user 
 
-  ![images](login.png)
+  ![images](https://github.com/nagavenikiran/blogapp/blob/main/images/login.PNG)
 
   ## Select the Blog Model
  
-  ![images](selectapp.png)
+  ![images](https://github.com/nagavenikiran/blogapp/blob/main/images/selectapp.PNG)
   
   ## Add the Blog information
 
-  ![images](AddBlog.png)
+  ![images](https://github.com/nagavenikiran/blogapp/blob/main/images/AddBlog.PNG)
